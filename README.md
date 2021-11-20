@@ -11,7 +11,7 @@
 
 <a href="https://github.com/suryanarayanms/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/suryanarayanms/awesome-github-profile-readme?color=2b9348"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanarayanms&layout=compact)](https://github.com/suryanarayanms/github-readme-stats)
 
 #### My Contributions 🤖
 - [Library-Management-System](https://github.com/suryanarayanms/Library-Management-System)
