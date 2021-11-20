@@ -22,8 +22,8 @@
 ## 🛠️ **Languages & Tools:**
 
 <p align="center">
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" width="30" />
-  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40"  />
+  <img align="center" style="margin: 10px" src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=2DjfLhXhdse0tA&riu=http%3a%2f%2fblog.toright.com%2fwp-content%2fuploads%2f2011%2f03%2fverslag-techtalk-mysql.png&ehk=5JLP2Zcw1Ufa1tw47fpNLDPHb9WgODg5kRSh9GNPl44%3d&risl=&pid=ImgRaw&r=0" alt="MySQL" width="30" />
+  <img align="center" style="margin: 10px" src="https://th.bing.com/th/id/OIP.tx2TC60-VAYhALDr0h8o7QHaHa?pid=ImgDet&w=307&h=307&rs=1" alt="HTML && CSS" width="40"  />
 
 <br />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" />
