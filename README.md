@@ -1,5 +1,5 @@
 
-# <p align="center">️ **Hi there <img src="https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836" alt="waving hand" width="30px"> I am Surya Narayan** 🤍</p>
+# <p align="center">️ **Hi there !!!   This is Surya Narayan** 🤍</p>
 
 <br/>
 <img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
