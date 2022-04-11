@@ -1,4 +1,4 @@
-
+<div align = "center">
 <img align="center" alt="Coding" height="200" src="https://www.linkpicture.com/q/20220411_143625.jpg">
 
 
@@ -6,7 +6,7 @@
 
 
 <div align = "center">
-  
+ div 
 <img alt= "streaks card" height="200px"  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=suryanarayanms&theme=github_dark">
 
 <div/>
