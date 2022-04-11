@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" height="200" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
+<img align="center" alt="Coding" height="200" src="https://www.linkpicture.com/q/20220411_143625.jpg">
 
 
 
