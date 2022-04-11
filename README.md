@@ -1,16 +1,20 @@
 <div align = "center">
 <img align="center" alt="Coding" height="200" src="https://www.linkpicture.com/q/20220411_143625.jpg">
 
+ <br><br>
+ 
+ 
 
-
-
-
+ 
 <div align = "center">
- div 
+
 <img alt= "streaks card" height="200px"  width="400"  src="https://github-readme-streak-stats.herokuapp.com/?user=suryanarayanms&theme=github_dark">
 
 <div/>
 
+ <br>
+  <br>
+ 
   
 
 <div align = "center">
@@ -19,12 +23,18 @@
 
 <div/>
 
+ <br>
+  <br>
+ 
 
 
+
+## 🌐 **Connect with me:** ️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya-informationl?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=#0077b5")](https://www.linkedin.com/in/surya-narayan-m-s-)
+[![Mail](https://img.shields.io/badge/GMail-SuryaMS-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=#1da1f2&color=#1da1f2")](https://suryanarayan.moola@gmail.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-Surya-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1da1f2&color=#1da1f2")](https://www.twitter.com/SuryaNarayanMS1)
 
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<a href="https://www.linkedin.com/in/surya-narayan-m-s-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suryanarayanms" height="30" width="40" /></a>
-<a href="https://instagram.com/sur__y_aaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suryanarayanms" height="30" width="40" /></a></p>
+ 
